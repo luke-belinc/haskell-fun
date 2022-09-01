@@ -1,4 +1,4 @@
-module Chapter2.SimpleFunctions where
+module SimpleFunctions where
 
 -- can declare function type before definition, otherwise type is inferred
 firstOrEmpty :: [[Char]] -> [Char]
